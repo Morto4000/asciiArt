@@ -80,11 +80,13 @@ function etu11 {
 }
 function etu12 {
 	echo "travail de Joey"
-	echo "  .-"""-."
-	echo " /* * * *\"
-	echo ":_.-:`:-._;"
-	echo "    (_)"
-	echo " \|/(_)\|/"
+	echo "  LA"
+	echo "  JE"
+	echo " SUIS"
+	echo "  SUR"
+	echo "  QUE"
+	echo "  CA"
+	echo "MARCHE"
 	sleep $1
 	clear
 }
