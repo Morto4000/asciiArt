@@ -80,6 +80,7 @@ function etu11 {
 }
 function etu12 {
 	echo "travail de Joey"
+<<<<<<< HEAD
 	echo "  LA"
 	echo "  JE"
 	echo " SUIS"
@@ -87,6 +88,8 @@ function etu12 {
 	echo "  QUE"
 	echo "  CA"
 	echo "MARCHE"
+=======
+>>>>>>> 549f6c3e6f276f690b73fbf00a832545ec015ed4
 	sleep $1
 	clear
 }
@@ -109,8 +112,18 @@ echo "                                                                          
 	clear
 }
 function etu14 {
-	echo "travail de"
+	echo "travail de Yohann"
 	echo "mon asci art"
+	echo " ##  ############# "
+	echo "##  ##           ##"
+	echo "#  ##  #########  #"
+	echo "# #   ##       ## #"
+	echo "# #  ##    ##   # #"
+	echo "# ##  ######   ## #"
+	echo "#  ##         ##  #"
+ 	echo "##  ###########  ##"
+	echo " ##             ## "
+	echo "  ###############  "
 	sleep $1
 	clear
 }
@@ -240,7 +253,7 @@ function prof {
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
 prof 1
+
 etu12 1
-etu11 1
 etu13 3
 
